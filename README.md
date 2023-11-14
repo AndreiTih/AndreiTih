@@ -15,7 +15,14 @@ We were granted access to the [MIMIC-IV](https://physionet.org/content/mimiciv/2
 Unfortounately, the code for that project is in a private repo on my university [github account](https://github.com/Gizs).
 
 🔧 **Skills:** Some of the tools and technologies I work with include:
-
+<br>
+<br>
+<p align="center">
+   <img src="data/icons/c.svg" alt="cpp" width="50">
+   <img src="data/icons/csharp.svg" alt="csharp" width="50">
+   <img src="data/icons/python.svg" alt="python" width="50">
+   <img src="data/icons/sql.svg" alt="sql" width="50">
+</p>
 <!--
 **AndreiTih/AndreiTih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
