@@ -3,7 +3,7 @@
 I've been tinkering with C/C++ recently, and have really enjoyed learning more about computers along the way. Welcome to my profile!
 <br>
 <br>
-💻 **C++ Development:** . You can explore some of my C++ projects [here](https://github.com/mspaprika?tab=repositories).
+💻 **C++ Development:** . You can explore some of my C++ projects [here](https://andreitihoan.com/projects).
 <br>
 <br>
 🤖 **AI Development:** In the final year of my degree, as part of a team of 4 I worked on a MultiModal Artificial Intelligence model that predicts the type of pneumonia a patient has based on 3 input modalities:
