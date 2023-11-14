@@ -18,10 +18,10 @@ Unfortounately, the code for that project is in a private repo on my university 
 <br>
 <br>
 <p align="center">
-   <img src="data/icons/c.svg" alt="cpp" width="50">
-   <img src="data/icons/csharp.svg" alt="csharp" width="50">
-   <img src="data/icons/python.svg" alt="python" width="50">
-   <img src="data/icons/sql.svg" alt="sql" width="50">
+   <img src="data/icons8-c++.svg" alt="cpp" width="50">
+   <img src="data/icons8-c-programming.svg" alt="csharp" width="50">
+   <img src="data/icons8-python.svg" alt="python" width="50">
+   <img src="data/icons8-qt.svg" alt="sql" width="50">
 </p>
 <!--
 **AndreiTih/AndreiTih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
