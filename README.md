@@ -39,9 +39,11 @@ Unfortounately, the code for that project is in a private repo on my university 
 <br> 
 
 ## 📂 Portfolio Website:
+<div align="center">
 <a href="https://www.andreitihoan.com">
-   <img src="data/portfolio.png" alt="portfolio" width="400">
+   <img src="data/portfolio.PNG" alt="portfolio" width="400">
 </a>
+</div>
 <br>
 <br>
 
