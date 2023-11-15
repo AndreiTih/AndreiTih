@@ -22,13 +22,13 @@ Unfortounately, the code for that project is in a private repo on my university 
    <img src="data/icons8-c-programming.svg" alt="c-without-pp" width="50">
    <img src="data/icons8-python.svg" alt="python" width="50">
    <img src="data/icons8-qt.svg" alt="qt" width="50">
-   <img src="data/icons8-c-sharp-logo.svg" alt="cpp" width="50">
-   <img src="data/icons8-java-logo.svg" alt="cpp" width="50">
-   <img src="data/sql.png" alt="csharp" width="50">
-   <img src="data/icons8-git-logo.svg" alt="sql" width="50">
-   <img src="data/linux.svg" alt="python" width="50">
-   <img src="data/icons8-pytorch.svg" alt="python" width="50">
-   <img src="data/icons8-latex.svg" alt="python" width="50">
+   <img src="data/icons8-c-sharp-logo.svg" alt="csharp" width="50">
+   <img src="data/icons8-java-logo.svg" alt="java" width="50">
+   <img src="data/sql.png" alt="sql" width="50">
+   <img src="data/icons8-git-logo.svg" alt="git" width="50">
+   <img src="data/linux.svg" alt="linux" width="50">
+   <img src="data/icons8-pytorch.svg" alt="pytorch" width="50">
+   <img src="data/icons8-latex.svg" alt="latex" width="50">
 </p>
 <!--
 **AndreiTih/AndreiTih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
