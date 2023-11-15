@@ -12,7 +12,7 @@ I've been tinkering with C/C++ recently, and have really enjoyed learning more a
 3. Static data.
 
 We were granted access to the [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) dataset for the project.
-Unfortounately, the code for that project is in a private repo on my university [github account](https://github.com/Gizs).
+Unfortunately, the code for that project is in a private repo on my university [github account](https://github.com/Gizs).
 
 🔧 **Skills:** Some of the tools and technologies I work with include:
 <br>
