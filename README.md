@@ -35,6 +35,17 @@ Unfortounately, the code for that project is in a private repo on my university 
 
 🌱 **I’m currently learning:** more about C/C++ and practicing my math skills.
 
+<br>
+<br> 
+
+## 📂 Portfolio Website:
+<a href="https://www.andreitihoan.com">
+   <img src="data/portfolio.png" alt="portfolio" width="400">
+</a>
+<br>
+<br>
+
+
 <!--
 **AndreiTih/AndreiTih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
