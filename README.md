@@ -30,13 +30,16 @@ Unfortounately, the code for that project is in a private repo on my university 
    <img src="data/icons8-pytorch.svg" alt="pytorch" width="50">
    <img src="data/icons8-latex.svg" alt="latex" width="50">
 </p>
+
+🔭 **I’m currently working on:** a real-time tracer. That is, a program that can display the callback trace of a process in real-time while the process is running.
+
+🌱 **I’m currently learning:** more about C/C++ and practicing my math skills.
+
 <!--
 **AndreiTih/AndreiTih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
