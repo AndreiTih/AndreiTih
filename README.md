@@ -31,7 +31,7 @@ Unfortunately, the code for that project is in a private repo on my university [
    <img src="data/icons8-latex.svg" alt="latex" width="50">
 </p>
 
-🔭 **I’m currently working on:** A real-time tracer. That is, a program that can display the callback trace of any individual thread of a process in real-time while the process is running.
+🔭 **I’m currently working on:** A real-time tracer. That is, a program that can display the callstack trace of any individual thread of a process in real-time while the process is running.
 
 🌱 **I’m currently learning:** More about C/C++ and practicing my math skills.
 
