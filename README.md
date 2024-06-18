@@ -35,8 +35,9 @@ I've been tinkering with JavaScript, HTML, and CSS  recently, and have really en
 </p>
 
 
-🔭 I’m currently working on: portfolio.fit. A SAAS page builder for professionals who want to display their work online but don't want to go through the hassle of making and hosting a personal website.
-The user chooses a template and their portfolio is hosted under a personal HTTP link.
+🔭 I’m currently working on: portfolio.fit. A SAAS project made with React, TypeScript, and Node.js.
+
+It's a website for professionals who want to display their work online. The user chooses a template, and their portfolio is hosted under a personal HTTP link. It's primarily directed at software engineers.
 
 🌱 I’m currently learning: More about modern frontend frameworks and tooling such as Angular, React, and TypeScript.
 <br>
