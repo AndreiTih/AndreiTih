@@ -11,11 +11,11 @@ Web development: You can explore some of my webdev projects here.
 <br>
 <br>
 🤖 AI Development: In the final year of my degree, as part of a team of 4 I worked on a MultiModal Artificial Intelligence model that predicts the type of pneumonia a patient has based on 3 input modalities:
-
-Image data in the form of XRays taken of a patient's lungs
-Time-Series and
-Static data.
-We were granted access to the MIMIC-IV dataset for the project. Unfortunately, the code for that project is in a private repo on my university github account.
+1. Image data in the form of XRays taken of a patient's lungs
+2. Time-Series and
+3. Static data.
+- We were granted access to the [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) dataset for the project.
+- Unfortunately, the code for that project is in a private repo on my university [github account](https://github.com/Gizs).
 
 🔧 Skills: Some of the tools and technologies I work with include:
 <br>
