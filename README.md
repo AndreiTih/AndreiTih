@@ -2,7 +2,7 @@
 
 
 
-I've been tinkering with JavaScript, HTML and CSS  recently, and have really enjoyed learning more about the web along the way. Welcome to my profile!
+I've been tinkering with JavaScript, HTML, and CSS  recently, and have really enjoyed learning more about the web along the way. Welcome to my profile!
 <br>
 <br>
 🌐 Web development: You can explore some of my webdev projects [here](https://andreitihoan.com/projects).
@@ -15,7 +15,7 @@ I've been tinkering with JavaScript, HTML and CSS  recently, and have really enj
 2. Time-Series and
 3. Static data.
 - We were granted access to the [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) dataset for the project.
-- Unfortunately, the code for that project is in a private repo on my university [github account](https://github.com/Gizs).
+- Unfortunately, the code for that project is in a private repo on my university [GitHub account](https://github.com/Gizs).
 
 🔧 Skills: Some of the tools and technologies I work with include:
 <br>
@@ -35,10 +35,10 @@ I've been tinkering with JavaScript, HTML and CSS  recently, and have really enj
 </p>
 
 
-🔭 I’m currently working on: portfolio.fit. A SAAS page builder for professionals that want to display their work online but don't want to go through the hassle of making and hosting a personal website.
-The user chooses a template and their portfolio is hosted under a personal http link.
+🔭 I’m currently working on: portfolio.fit. A SAAS page builder for professionals who want to display their work online but don't want to go through the hassle of making and hosting a personal website.
+The user chooses a template and their portfolio is hosted under a personal HTTP link.
 
-🌱 I’m currently learning: More about modern frontend frameworks and tooling such as Angular, React and TypeScript.
+🌱 I’m currently learning: More about modern frontend frameworks and tooling such as Angular, React, and TypeScript.
 <br>
 <br> 
 ## 📂 Portfolio Website:
