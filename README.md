@@ -5,9 +5,9 @@
 I've been tinkering with JavaScript, HTML and CSS  recently, and have really enjoyed learning more about the web along the way. Welcome to my profile!
 <br>
 <br>
-🌐 Web development: You can explore some of my webdev projects here.
+🌐 Web development: You can explore some of my webdev projects [here](https://andreitihoan.com/projects).
 
-💻 C++ Development: . You can explore some of my C++ projects here.
+💻 C++ Development: . You can explore some of my C++ projects [here](https://andreitihoan.com/projects).
 <br>
 <br>
 🤖 AI Development: In the final year of my degree, as part of a team of 4 I worked on a MultiModal Artificial Intelligence model that predicts the type of pneumonia a patient has based on 3 input modalities:
